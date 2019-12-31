@@ -1,0 +1,10 @@
+# gitignore for my test task
+
+
+#ignore all
+*
+
+# except:
+!Makefile
+!.gitignore
+!stepic_task_2_1.cpp
